@@ -1,4 +1,4 @@
-# spices
+# Train your Computer
 A deeplearning model that can run on the browser
 
 ## How to use website
